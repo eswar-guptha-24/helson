@@ -95,9 +95,9 @@ Near Image hospital, Vittalrao Nagar,<br> Madhapur , Hyderabad-500081</div>
                         </div>
                         <div class="col-lg-6">
                             <div class="copyright">
-                                <p> Copyrights&copy; 2023 HSL Solutions PVT LTD. All rights reserved.
-                                <!-- Developed By <a href="https://socialtalentagency.com/" target="new">STA Solutions Pvt. Ltd.</a>         -->
-                            </p>
+                                <p>
+    Copyrights&copy; <?php echo date('Y'); ?> HSL Solutions PVT LTD. All rights reserved.
+</p>
                             </div>
                         </div>
                         
