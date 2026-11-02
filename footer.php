@@ -1,12 +1,12 @@
     
         <!-- Footer Start -->
         <footer id="rs-footer" class="rs-footer">
-            <div class="footer-top">c
+            <div class="footer-top">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-3 col-md-12 col-sm-12 footer-widget">
                             <div class="footer-logo">
-                                <a href="index.html"><img src="assets/images/logo-dark.png" alt="" style="height:100%"></a>
+                                <a href="index.php"><img src="assets/images/logo-dark.png" alt="" style="height:100%"></a>
                             </div>
                               <div class="textwidget pb-30"><p>HLS Solutions is an IT consulting and software service company established in 2017. HLS Solutions stated operations from Hyderabad with strong work forces.</p>
                               </div>
@@ -15,7 +15,7 @@
                                       <a href="https://www.facebook.com/people/Helson-Software-Solutions-Private-Limited/100092594812231/" target="_blank"><span><i class="fa fa-facebook"></i></span></a> 
                                   </li>
                                   <li> 
-                                      <a href="https://twitter.com/helsonsoftware " target="_blank"><span><i class="fa fa-twitter"></i></span></a> 
+                                      <a href="https://twitter.com/helsonsoftware" target="_blank"><span><i class="fa fa-twitter"></i></span></a> 
                                   </li>
 
                                   <!-- <li> 
@@ -25,7 +25,7 @@
                                       <a href="# " target="_blank"><span><i class="fa fa-instagram"></i></span></a> 
                                   </li> -->
                                   <li> 
-                                      <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQG_sEsI-TDFQQAAAYhDtsroPCro14dNNv1leJMyN5WREl-aOUFUFJRkxMF7H2Hg6jfEv2GQI_RO8UfljQNXmhyWmJCuIwRL9qik1bIyFud6cmPoN-wb6f6-6HHOsweu57QLIvY=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fhelson-software-solutions-private-limited%2F%3FviewAsMember%3Dtrue" target="_blank"><span><i class="fa fa-linkedin"></i></span></a> 
+                                      <a href="https://www.linkedin.com/company/helson-software-solutions-private-limited/" target="_blank"><span><i class="fa fa-linkedin"></i></span></a> 
                                   </li>                                        
                               </ul>
                         </div>
@@ -35,6 +35,7 @@
                                 <li><a href="web-applications.php">Web Application</a></li>
                                 <li><a href="mobile-app.php">Mobile Application</a></li>
                                 <li><a href="telecommunication.php">Telecommunication</a></li>
+                                <li><a href="embedded-systems.php">Embedded Systems</a></li>
                                 <li><a href="cloud-services.php">Cloud Services</a></li>
                             </ul>
                         </div>
@@ -89,7 +90,7 @@ Near Image hospital, Vittalrao Nagar,<br> Madhapur , Hyderabad-500081</div>
                             <ul class="copy-right-menu">
                                 <li><a href="index.php">Home</a></li>
                                 <li><a href="about.php">About</a></li>
-                                <li><a href="#">Careers</a></li>
+                                <li><a href="careers.php">Careers</a></li>
                                 <li><a href="contact.php">Contact</a></li>
                             </ul>
                         </div>

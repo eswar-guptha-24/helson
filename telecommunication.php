@@ -66,6 +66,7 @@ include('header.php');
                                 <li><a  href="web-applications.php">Web Application</a></li>
                                 <li><a href="mobile-app.php">Mobile Application</a></li>
                                 <li><a class="active" href="telecommunication.php">Telecommunication</a></li>
+                                <li><a href="embedded-systems.php">Embedded Systems</a></li>
                             </ul>
                             <div class="services-add mb-50 mt-50">
                                 <div class="address-item mb-35">

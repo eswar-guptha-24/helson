@@ -28,7 +28,7 @@ include('header.php');
                     <div class="row">
                         <div class="col-lg-8 md-mb-50">
                             <div class="services-img">
-                                <img src="assets/images/net-solutions.png" alt="">
+                                <img src="assets/images/net-solutions.jpeg" alt="">
                             </div>
                             <p>
                             Dot Net is the Microsoft Web Services strategy to associate intelligence, people, systems & devices over software. HLS Solutions is a Microsoft Certified Partner with a decade’s expertise in an ample range of Microsoft technology platforms. Dot Net is a powerful framework that is designed to decrease time to develop complex applications.
